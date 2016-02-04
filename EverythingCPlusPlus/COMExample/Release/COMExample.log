@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  COMExample.cpp
+COMExample.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DoesThisHaveToBeNameTheSameAsFunctionExample.cpp
+DoesThisHaveToBeNameTheSameAsFunctionExample.cpp(1): warning C4627: '#include "FunctionExample.h"': skipped when looking for precompiled header use
+  DoesThisHaveToBeNameTheSameAsFunctionExample.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  COMExample.vcxproj -> C:\projects\CPlus\EverythingCPlusPlus\Release\COMExample.exe

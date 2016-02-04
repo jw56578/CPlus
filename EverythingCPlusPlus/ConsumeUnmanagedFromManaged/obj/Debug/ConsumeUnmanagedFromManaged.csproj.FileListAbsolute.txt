@@ -1,0 +1,6 @@
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.exe.config
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.exe
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.pdb
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.csprojResolveAssemblyReference.cache
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.exe
+C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.pdb
