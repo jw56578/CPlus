@@ -1,0 +1,5 @@
+﻿  strings.c
+c:\users\jwoo\documents\github\cplus\everythingcplusplus\pluralsight-cprogramminglanguageinaction\strings.c(7): warning C4189: 'string': local variable is initialized but not referenced
+c:\users\jwoo\documents\github\cplus\everythingcplusplus\pluralsight-cprogramminglanguageinaction\strings.c(9): warning C4189: 'stringasarray': local variable is initialized but not referenced
+  PluralSight-CProgrammingLanguageInAction.vcxproj -> C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\Debug\PluralSight-CProgrammingLanguageInAction.exe
+  PluralSight-CProgrammingLanguageInAction.vcxproj -> C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\Debug\PluralSight-CProgrammingLanguageInAction.pdb (Full PDB)

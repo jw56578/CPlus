@@ -1,7 +1,2 @@
-﻿  DoesThisHaveToBeNameTheSameAsFunctionExample.cpp
-c:\projects\cplus\everythingcplusplus\comexample\doesthishavetobenamethesameasfunctionexample.cpp(1): warning C4627: '#include "FunctionExample.h"': skipped when looking for precompiled header use
-  c:\projects\cplus\everythingcplusplus\comexample\doesthishavetobenamethesameasfunctionexample.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
-  COMExample.cpp
-c:\projects\cplus\everythingcplusplus\comexample\comexample.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating Code...
-  COMExample.vcxproj -> C:\projects\CPlus\EverythingCPlusPlus\Debug\COMExample.exe
+﻿  COMExample.vcxproj -> C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\Debug\COMExample.exe
+  COMExample.vcxproj -> C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\Debug\COMExample.pdb (Full PDB)

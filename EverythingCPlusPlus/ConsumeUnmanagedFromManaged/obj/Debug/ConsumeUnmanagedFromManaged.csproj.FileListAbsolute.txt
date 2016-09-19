@@ -4,3 +4,9 @@ C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\Cons
 C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.csprojResolveAssemblyReference.cache
 C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.exe
 C:\projects\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.pdb
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.exe.config
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.exe
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\bin\Debug\ConsumeUnmanagedFromManaged.pdb
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.csprojResolveAssemblyReference.cache
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.exe
+C:\Users\JWoo\Documents\GitHub\CPlus\EverythingCPlusPlus\ConsumeUnmanagedFromManaged\obj\Debug\ConsumeUnmanagedFromManaged.pdb

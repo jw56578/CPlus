@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Sample.c" />
+    <ClCompile Include="RandomOtherSourceFile.c" />
+    <ClCompile Include="Variables.c" />
+    <ClCompile Include="types.c" />
+    <ClCompile Include="structures.c" />
+    <ClCompile Include="layout.c" />
+    <ClCompile Include="unionandenumeration.c" />
+    <ClCompile Include="expressions.c" />
+    <ClCompile Include="memory.c" />
+    <ClCompile Include="strings.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommonFunctionality.h" />
+  </ItemGroup>
+</Project>
